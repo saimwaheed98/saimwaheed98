@@ -1,4 +1,10 @@
-I'm currently working on — Flutter apps for iOS & Android (15+ live on stores)<br>I'm looking to collaborate on — Mobile app projects: marketplaces, real-time apps, AI-integrated tools<br>I'm looking for help with — Nothing right now<br>I'm currently learning — Advanced Flutter animations & AI integration in mobile apps<br>Ask me about — Flutter, Firebase, building and shipping apps to both stores<br>Fun fact — I've shipped 15+ live apps across iOS & Android as a solo Flutter developer]
+Flutter developer specializing in building high-performance mobile applications for iOS and Android, with over 15 apps successfully deployed on the stores.
+
+Open to collaboration on mobile app projects, including marketplaces, real-time systems, and AI-powered solutions.
+
+Continuously advancing in advanced Flutter animations and AI integration to deliver modern, scalable, and user-focused applications.
+
+Expertise includes Flutter, Firebase, and end-to-end development, from building to successfully launching applications on both platforms.
 
 
 ## 🌐 Socials:
